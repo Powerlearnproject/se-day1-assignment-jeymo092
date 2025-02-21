@@ -2,7 +2,7 @@
 SE_Day1
 ## Software Engineering Day1 Assignment
 # Part 1: Introduction to Software Engineering
-### **1.Explain what software engineering is and discuss its importance in the technology industry.
+## **1.Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is a systematic approach to designing, developing, testing, deploying, and maintaining software systems. It applies engineering principles to software development to ensure that applications are reliable, scalable, efficient, and meet user requirements. Software engineering involves methodologies, frameworks, and best practices for coding, debugging, and managing complex software projects.
 Importance of Software Engineering in the Technology Industry
 Ensures High-Quality Software Development
@@ -37,7 +37,7 @@ In the 2010s, DevOps (Development + Operations) emerged, integrating software de
 Cloud computing and microservices architecture further transformed software engineering, enabling scalable and efficient applications.
 
 ---
-### **3.List and briefly explain the phases of the Software Development Life Cycle.
+## **3.List and briefly explain the phases of the Software Development Life Cycle.
 The Software Development Life Cycle (SDLC) is a structured process used to design, develop, test, and deploy high-quality software. It consists of several key phases:
 
 Planning
@@ -125,7 +125,7 @@ A Project Manager handling a cloud-based healthcare system might coordinate betw
 
 ---
 
-### **6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+## **6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
  Integrated Development Environments (IDEs)
 An Integrated Development Environment (IDE) is a software application that provides tools for writing, debugging, and testing code efficiently in a single interface.
 
@@ -152,7 +152,7 @@ Apache Subversion (SVN) – A centralized VCS used in enterprise projects.
 Mercurial – A fast, scalable VCS used for large-scale software projects.
 
 ---
-### **7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+## **7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
  Debugging and Fixing Complex Bugs
 Challenge: Identifying and fixing bugs in large codebases can be time-consuming and difficult.
 Strategy:
@@ -191,7 +191,7 @@ Perform regular security audits and penetration testing.
 Stay updated with security best practices and compliance standards (e.g., OWASP, GDPR).
 
 ---
-### **8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+## **8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing
 ✅ Definition:
 
