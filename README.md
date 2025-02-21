@@ -1,9 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18325221&assignment_repo_type=AssignmentRepo)
-# SE_Day1
+SE_Day1
 ## Software Engineering Day1 Assignment
-
 # Part 1: Introduction to Software Engineering
-
 ### **1.Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is a systematic approach to designing, developing, testing, deploying, and maintaining software systems. It applies engineering principles to software development to ensure that applications are reliable, scalable, efficient, and meet user requirements. Software engineering involves methodologies, frameworks, and best practices for coding, debugging, and managing complex software projects.
 Importance of Software Engineering in the Technology Industry
@@ -21,7 +19,7 @@ Well-structured software can handle increasing workloads and adapt to growing us
 Software engineering ensures optimized performance and resource utilization.
 ---
 
-### **2.Identify and describe at least three key milestones in the evolution of software engineering.
+## **2.Identify and describe at least three key milestones in the evolution of software engineering.
 The Birth of Software Engineering (1968 - NATO Conference)
 
 The term software engineering was first introduced at the NATO Software Engineering Conference in 1968.
@@ -72,7 +70,7 @@ Provides updates, bug fixes, and performance enhancements.
 Addresses security patches and user feedback.
 
 ---
-### **4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+## **4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 | Feature            | Waterfall Methodology                     | Agile Methodology                        |
 |--------------------|--------------------------------------|--------------------------------------|
 | **Approach**      | Linear and sequential               | Iterative and incremental           |
@@ -86,7 +84,7 @@ Addresses security patches and user feedback.
 
 
 ---
-### **5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+## **5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer
 A Software Developer is responsible for designing, coding, and maintaining software applications based on project requirements.
 
